@@ -1,0 +1,5 @@
+client lourd = appli a télécharger
+client léger = appli online
+
+http://reqres.in/api/users
+
